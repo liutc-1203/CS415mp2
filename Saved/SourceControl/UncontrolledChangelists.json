@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_healthbar.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/Enemy/AI_Character.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerCharacter.uasset",
+				"D:/415/tool/Content/StarterContent/Shapes/Shape_Cone.uasset",
+				"D:/415/tool/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_Projectile.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Maps/Untitled.umap",
+				"D:/415/tool/Content/LearningKit_Games/Maps/1.umap",
+				"D:/415/tool/Content/LearningKit_Games/Maps/Untitled2.umap",
+				"D:/415/tool/Content/LearningKit_Games/Maps/3.umap",
+				"D:/415/tool/Content/LearningKit_Games/Maps/4.umap",
+				"D:/415/tool/Content/LearningKit_Games/Maps/Untitled5.umap",
+				"D:/415/tool/Content/LearningKit_Games/Maps/Untitled6.umap",
+				"D:/415/tool/Content/LearningKit_Games/Maps/Untitled8.umap",
+				"D:/415/tool/Content/LearningKit_Games/Maps/Untitled9.umap",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/Enemy/AI_Controller.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/MortarCharacter.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Maps/NewLevel.umap",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthPack.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/SelfBurstingCharacter.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/ShootingCharacter.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_Projectile2.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_restart.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/CollectThing.uasset",
+				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/SelfBurstCharacter.uasset"
+			]
+		}
+	]
+}
