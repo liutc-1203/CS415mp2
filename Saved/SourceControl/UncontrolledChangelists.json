@@ -31,6 +31,12 @@
 				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_Projectile2.uasset",
 				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_restart.uasset",
 				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/CollectThing.uasset",
+				"D:/CS415/CS415mp2/Content/LearningKit_Games/Maps/NewLevel.umap",
+				"D:/CS415/CS415mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/CollectThing.uasset",
+				"D:/CS415/CS415mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_healthbar.uasset",
+				"D:/CS415/CS415mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/CS415/CS415mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Complete.uasset",
+				"D:/CS415/CS415mp2/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerCharacter.uasset",
 				"D:/415/tool/Content/LearningKit_Games/Blueprints/PlayerCharacter/SelfBurstCharacter.uasset"
 			]
 		}
